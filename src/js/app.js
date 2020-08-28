@@ -33,7 +33,7 @@ butGet.addEventListener('click', (e) => {
     const tdTot = document.createElement('td');
     const tdDateTot = document.createElement('td');
     trTot.appendChild(tdNameTot);
-    trTot.appendChild(tdArtTot);
+    // trTot.appendChild(tdArtTot);
     trTot.appendChild(tdRevenueTot);
     trTot.appendChild(tdTot);
     trTot.appendChild(tdDateTot);
@@ -68,9 +68,9 @@ butGet.addEventListener('click', (e) => {
       tabBody.appendChild(tr);
 
       tr.appendChild(thNum);
-      tr.appendChild(tdName);
+      // tr.appendChild(tdName);
       tr.appendChild(tdBr);
-      tr.appendChild(tdArt);
+      // tr.appendChild(tdArt);
       tr.appendChild(tdPr);
       tr.appendChild(tdSt);
       tr.appendChild(tdDate);
