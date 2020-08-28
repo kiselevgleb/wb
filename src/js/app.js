@@ -67,7 +67,7 @@ butGet.addEventListener('click', (e) => {
       tdDate.innerText = element.date;
       tabBody.appendChild(tr);
 
-      tr.appendChild(thNum);
+      // tr.appendChild(thNum);
       // tr.appendChild(tdName);
       tr.appendChild(tdBr);
       // tr.appendChild(tdArt);
