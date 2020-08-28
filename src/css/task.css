@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px!important;
+}
+td{
+  text-align: left;
+}
+.form-control{
+  margin-right: 20px;
+}
+.form-inline{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(240, 240, 240);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+#tab{
+  display: none;
+}
+#tabTotal{
+  display: none;
+}
